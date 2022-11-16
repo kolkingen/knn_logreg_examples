@@ -1,0 +1,1 @@
+pg_restore -U postgres -d postgres -1 database.dump
